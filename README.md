@@ -30,3 +30,10 @@ This project is a Flask-based web application that streams live footage from a C
    ```bash
    git clone https://github.com/Qoslaye/Flask-CCTV-Live-Streaming-Website.git
    cd Flask-CCTV-Live-Streaming-Website
+
+   ---
+## 📸 Screenshot
+---
+
+![06990E01-A124-46B5-9069-D00FA88F269B](https://github.com/user-attachments/assets/75bddc4d-22a1-4c0b-8d73-40fc38021ff7)
+
